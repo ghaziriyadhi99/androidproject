@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/tv_SecondActHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="@string/choose_an_item"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_apple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/apel"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_rice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/nasi"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_cheesee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/keju"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_bread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/roti"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_butter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/margarin"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_sugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/gula"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_sausage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/sosis"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_flour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/tepung"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_milk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/susu_bubuk"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_potato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:minHeight="48dp"
+        android:onClick="addItemToMainAct"
+        android:text="@string/kentang"
+        android:textSize="20sp" />
+
+</LinearLayout>

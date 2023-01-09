@@ -1,0 +1,4 @@
+#Mon Nov 21 19:31:31 ICT 2022
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\4.4 4.5\\DroidCafeOptionsUp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

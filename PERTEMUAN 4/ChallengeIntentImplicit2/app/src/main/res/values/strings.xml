@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Challenge Intent Implicit</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="add_item">Add Item</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="anggur">Anggur</string>
+    <string name="sop">Sop</string>
+    <string name="margarin">Margarin</string>
+    <string name="pundut">Pundut</string>
+    <string name="sayur">Sayur</string>
+    <string name="garam">Garam</string>
+    <string name="kentang">Kentang</string>
+    <string name="terigu">Terigu</string>
+    <string name="coklat">Coklat</string>
+    <string name="sosis">Sosis</string>
+    <string name="edittext_loc">Golden State Bridge</string>
+    <string name="button_loc">Open Location</string>
+</resources>
